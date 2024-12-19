@@ -1,0 +1,7 @@
+protobuf
+sentencepiece
+torch
+diffusers
+transformers
+optimum-quanto
+git+https://github.com/asomoza/image_gen_aux.git
