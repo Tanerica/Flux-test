@@ -2,6 +2,7 @@ protobuf
 sentencepiece
 torch
 diffusers
+accelerate
 transformers
 optimum-quanto
 huggingface-hub
