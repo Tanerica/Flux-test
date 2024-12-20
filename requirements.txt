@@ -4,4 +4,5 @@ torch
 diffusers
 transformers
 optimum-quanto
+huggingface-hub
 git+https://github.com/asomoza/image_gen_aux.git
